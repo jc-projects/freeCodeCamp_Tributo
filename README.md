@@ -24,6 +24,7 @@
     <li><a href="#ir-arriba">Título y descripción del proyecto</a></li>
     <li><a href="#indice">Índice</a></li>
     <li><a href="#tecnologias">Tecnologías utilizadas</a></li>
+    <li><a href="#tecnologias">Instalación</a></li>
     <li><a href="#instrucciones">Instrucciones</a></li>
     <li><a href="#pruebas">Pruebas</a></li>
     <li><a href="#desarrollado">Desarrollado por...</a>
@@ -46,10 +47,19 @@
     </a>
    </p>
   <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
+
+<!-- INSTALACIÓN -->
+  <a name="instalacion"></a>
+  ## 🔧 Instalación
+  Si deseas correr la web en un entorno local debes tener en cuenta lo siguiente: 
+  1. Clona el repositorio utilizando GIT o descargando el archivo ZIP:
+
+      `git clone https://github.com/joana-coll/James-Hetfield-Tributo.git`
+  <p align="right">(<a href="#ir-arriba">Ir arriba</a>)</p>
   
 <!-- INSTRUCCIONES -->
   <a name="instrucciones"></a>
-  ## 🔧 Instrucciones
+  ## 🚀 Instrucciones
   1. Tu página de homenaje debe tener un elemento `main` con un `id` correspondiente de `main`, que contiene los demás elementos
   2. La página debe tener un elemento `id` de `title`, el cual contendrá una cadena de caracteres (p. ej. texto), que describe el tema de la página de homenaje (p. ej. "Dr. Norman Borlaug")
   3. La página debe tener tanto un elemento `figure` o un elemento `div` con un `id` de `img-div`
